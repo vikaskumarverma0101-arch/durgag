@@ -1,0 +1,269 @@
+{
+  "donations": [
+    {
+      "id": "seed_0",
+      "name": "राम प्रकाश तिवारी",
+      "amount": 51000,
+      "anonymous": false,
+      "message": "जय माता दी!",
+      "timestamp": 1790366523530,
+      "source": "cash"
+    },
+    {
+      "id": "seed_1",
+      "name": "सुनीता देवी",
+      "amount": 41000,
+      "anonymous": false,
+      "message": "माँ की चौकी के लिए",
+      "timestamp": 1790449323530,
+      "source": "cash"
+    },
+    {
+      "id": "seed_2",
+      "name": "अज्ञात भक्त",
+      "amount": 25000,
+      "anonymous": true,
+      "timestamp": 1790532123530,
+      "source": "cash"
+    },
+    {
+      "id": "seed_3",
+      "name": "अमित कुमार वर्मा",
+      "amount": 21000,
+      "anonymous": false,
+      "message": "हमारे पंडाल का गर्व",
+      "timestamp": 1790614923530,
+      "source": "cash"
+    },
+    {
+      "id": "seed_4",
+      "name": "रमेश यादव एवं परिवार",
+      "amount": 15001,
+      "anonymous": false,
+      "timestamp": 1790697723530,
+      "source": "cash"
+    },
+    {
+      "id": "seed_5",
+      "name": "श्रीमती फूलमती देवी",
+      "amount": 11000,
+      "anonymous": false,
+      "message": "सद्बुद्धि के लिए",
+      "timestamp": 1790780523530,
+      "source": "cash"
+    },
+    {
+      "id": "seed_6",
+      "name": "दीपक सिंह (केसरई)",
+      "amount": 7100,
+      "anonymous": false,
+      "timestamp": 1790863323530,
+      "source": "cash"
+    },
+    {
+      "id": "seed_7",
+      "name": "अज्ञात भक्त",
+      "amount": 5100,
+      "anonymous": true,
+      "timestamp": 1790946123530,
+      "source": "cash"
+    },
+    {
+      "id": "seed_8",
+      "name": "पूजा किराना स्टोर",
+      "amount": 3100,
+      "anonymous": false,
+      "timestamp": 1791028923530,
+      "source": "cash"
+    },
+    {
+      "id": "seed_9",
+      "name": "अनिल मिश्रा",
+      "amount": 2100,
+      "anonymous": false,
+      "message": "समिति को आशीर्वाद",
+      "timestamp": 1791111723530,
+      "source": "cash"
+    },
+    {
+      "id": "seed_10",
+      "name": "युवा समिति अकेलवा पूर्व",
+      "amount": 1101,
+      "anonymous": false,
+      "timestamp": 1791108123530,
+      "source": "cash"
+    }
+  ],
+  "expenditures": [
+    {
+      "id": "exp_1",
+      "category": "मूर्ति एवं विसर्जन",
+      "amount": 120000,
+      "note": "मिट्टी की मूर्ति, रंग-रोगन और विसर्जन यात्रा"
+    },
+    {
+      "id": "exp_2",
+      "category": "पंडाल सजावट",
+      "amount": 95000,
+      "note": "थीम, कपड़ा और फूलों की सजावट"
+    },
+    {
+      "id": "exp_3",
+      "category": "रोशनी एवं साउंड",
+      "amount": 70000,
+      "note": "बिजली, LED लाइट और DJ साउंड"
+    },
+    {
+      "id": "exp_4",
+      "category": "भोग एवं प्रसाद",
+      "amount": 55000,
+      "note": "रोज़ का भोग और प्रसाद वितरण"
+    },
+    {
+      "id": "exp_5",
+      "category": "सांस्कृतिक कार्यक्रम",
+      "amount": 40000,
+      "note": "आरती, कीर्तन और बच्चों की प्रतियोगिता"
+    },
+    {
+      "id": "exp_6",
+      "category": "सुरक्षा एवं सफ़ाई",
+      "amount": 20000,
+      "note": "स्वयंसेवक किट और सफ़ाई व्यवस्था"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal_0",
+      "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"600\" height=\"450\"><defs><radialGradient id=\"g\" cx=\"50%\" cy=\"45%\"><stop offset=\"0%\" stop-color=\"hsl(35,95%,72%)\"/><stop offset=\"60%\" stop-color=\"hsl(15,80%,45%)\"/><stop offset=\"100%\" stop-color=\"%230d0207\"/></radialGradient></defs><rect width=\"600\" height=\"450\" fill=\"url(%23g)\"/><g fill=\"none\" stroke=\"%23ffe9a3\" stroke-width=\"3\" opacity=\"0.75\"><circle cx=\"300\" cy=\"200\" r=\"70\"/><circle cx=\"300\" cy=\"200\" r=\"110\" opacity=\"0.5\"/><circle cx=\"300\" cy=\"200\" r=\"150\" opacity=\"0.25\"/></g><text x=\"300\" y=\"300\" font-size=\"30\" text-anchor=\"middle\" fill=\"%23fff3e0\" font-family=\"sans-serif\">जय माता दी</text></svg>",
+      "caption": "पंडाल का मुख्य द्वार",
+      "category": "पंडाल",
+      "addedAt": 1790107323530
+    },
+    {
+      "id": "gal_1",
+      "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"600\" height=\"450\"><defs><radialGradient id=\"g\" cx=\"50%\" cy=\"45%\"><stop offset=\"0%\" stop-color=\"hsl(15,95%,72%)\"/><stop offset=\"60%\" stop-color=\"hsl(-5,80%,45%)\"/><stop offset=\"100%\" stop-color=\"%230d0207\"/></radialGradient></defs><rect width=\"600\" height=\"450\" fill=\"url(%23g)\"/><g fill=\"none\" stroke=\"%23ffe9a3\" stroke-width=\"3\" opacity=\"0.75\"><circle cx=\"300\" cy=\"200\" r=\"70\"/><circle cx=\"300\" cy=\"200\" r=\"110\" opacity=\"0.5\"/><circle cx=\"300\" cy=\"200\" r=\"150\" opacity=\"0.25\"/></g><text x=\"300\" y=\"300\" font-size=\"30\" text-anchor=\"middle\" fill=\"%23fff3e0\" font-family=\"sans-serif\">माँ दुर्गा</text></svg>",
+      "caption": "माँ दुर्गा की प्रतिमा",
+      "category": "मूर्ति",
+      "addedAt": 1790280123530
+    },
+    {
+      "id": "gal_2",
+      "url": "data:image/svg+xml;utf8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"600\" height=\"450\"><defs><radialGradient id=\"g\" cx=\"50%\" cy=\"45%\"><stop offset=\"0%\" stop-color=\"hsl(45,95%,72%)\"/><stop offset=\"60%\" stop-color=\"hsl(25,80%,45%)\"/><stop offset=\"100%\" stop-color=\"%230d0207\"/></radialGradient></defs><rect width=\"600\" height=\"450\" fill=\"url(%23g)\"/><g fill=\"none\" stroke=\"%23ffe9a3\" stroke-width=\"3\" opacity=\"0.75\"><circle cx=\"300\" cy=\"200\" r=\"70\"/><circle cx=\"300\" cy=\"200\" r=\"110\" opacity=\"0.5\"/><circle cx=\"300\" cy=\"200\" r=\"150\" opacity=\"0.25\"/></g><text x=\"300\" y=\"300\" font-size=\"30\" text-anchor=\"middle\" fill=\"%23fff3e0\" font-family=\"sans-serif\">आरती</text></svg>",
+      "caption": "संध्या आरती",
+      "category": "आरती",
+      "addedAt": 1790452923530
+    }
+  ],
+  "notices": [
+    {
+      "id": "not_1",
+      "title": "सभी सदस्यों के लिए सूचना",
+      "body": "पूजा की तैयारी के लिए सभी समिति सदस्य पंडाल स्थल पर समय से पहुँचें। (यह नमूना सूचना है — एडमिन पैनल से बदलें)",
+      "important": true,
+      "createdAt": 1791144123530
+    }
+  ],
+  "schedule": [
+    {
+      "id": "sch_1",
+      "order": 1,
+      "day": "प्रथम दिन",
+      "date": "११ अक्टूबर",
+      "when": "2026-10-11T07:00",
+      "time": "सुबह 7:00 बजे",
+      "title": "कलश स्थापना",
+      "place": "पंडाल, अकेलवा पूर्व",
+      "reportTime": "सुबह 6:30 बजे तक पहुँचें",
+      "details": "(नमूना समय — एडमिन से बदलें)"
+    },
+    {
+      "id": "sch_2",
+      "order": 2,
+      "day": "अष्टमी",
+      "date": "",
+      "when": "2026-10-19T09:00",
+      "time": "सुबह 9:00 बजे",
+      "title": "महाअष्टमी पूजा एवं कन्या पूजन",
+      "place": "पंडाल",
+      "reportTime": "सुबह 8:30 बजे",
+      "details": "तिथि पंडित जी से पक्की करके यहाँ भरें"
+    },
+    {
+      "id": "sch_3",
+      "order": 3,
+      "day": "विजयादशमी",
+      "date": "२० अक्टूबर",
+      "when": "2026-10-20T16:00",
+      "time": "शाम 4:00 बजे",
+      "title": "विसर्जन यात्रा",
+      "place": "पंडाल से नदी घाट तक",
+      "reportTime": "दोपहर 3:00 बजे पंडाल पर",
+      "details": "(नमूना समय — एडमिन से बदलें)"
+    }
+  ],
+  "sections": [],
+  "settings": {
+    "committeeName": "अकेलवा पूर्व दुर्गा पूजा समिति",
+    "village": "अकेलवा पूर्व",
+    "district": "बस्ती, उत्तर प्रदेश",
+    "about": "हम अकेलवा पूर्व गाँव की दुर्गा पूजा समिति हैं। हर साल शरद नवरात्रि में माँ दुर्गा की भव्य स्थापना, नौ दिन का अखंड ज्योति जागरण, रोज़ भोग-प्रसाद और सांस्कृतिक कार्यक्रम होते हैं। समिति के सदस्य हैं - गाँव के किसान, दुकानदार, युवा भाई और बुज़ुर्ग। आसपास के गाँव केसरई, गौर और आस-पास के इलाकों से भी श्रद्धालु पंडाल में आते हैं। माँ का आशीर्वाद सब पर बना रहे।",
+    "notice": "🙏 माँ दुर्गा की कृपा से इस बार का पंडाल और भव्य होगा - ५१००० से ज़्यादा का दान करने वाले भक्त मुख्य दानदाता में शामिल होंगे। जय माता दी!",
+    "goal": 500000,
+    "upiId": "akelwapurva@upi",
+    "upiName": "अकेलवा पूर्व दुर्गा पूजा समिति",
+    "qrImage": "",
+    "pujaDates": "शरद नवरात्रि - दुर्गा पूजा एवं विजयादशमी",
+    "aartiTime": "सुबह आरती 6:00 बजे · संध्या आरती 7:30 बजे",
+    "contacts": [
+      {
+        "name": "श्री राम प्रकाश तिवारी (अध्यक्ष)",
+        "phone": "9876543210",
+        "role": "अध्यक्ष"
+      },
+      {
+        "name": "श्री अमित कुमार वर्मा (कोषाध्यक्ष)",
+        "phone": "9876543211",
+        "role": "कोषाध्यक्ष"
+      }
+    ],
+    "whatsapp": "919876543210",
+    "tiers": [
+      {
+        "min": 51000,
+        "label": "महा दानवीर",
+        "size": 300,
+        "thanks": "आपकी उदारता से माँ का दरबार सजता है। माँ आप और परिवार पर अपनी विशेष कृपा बनाए रखें 🙏"
+      },
+      {
+        "min": 21000,
+        "label": "विशिष्ट दानदाता",
+        "size": 210,
+        "thanks": "आपके बड़े सहयोग के लिए हृदय से आभार। जय माता दी!"
+      },
+      {
+        "min": 5000,
+        "label": "प्रमुख दानदाता",
+        "size": 150,
+        "thanks": "आपके सहयोग के लिए धन्यवाद। माँ सबकी मनोकामना पूर्ण करें।"
+      },
+      {
+        "min": 1100,
+        "label": "सहयोगी भक्त",
+        "size": 100,
+        "thanks": "आपके दान के लिए धन्यवाद। माँ का आशीर्वाद सदा बना रहे।"
+      },
+      {
+        "min": 0,
+        "label": "श्रद्धालु भक्त",
+        "size": 72,
+        "thanks": "आपकी श्रद्धा माँ तक पहुँची। धन्यवाद, जय माता दी 🙏"
+      }
+    ],
+    "noticeTitle": "सूचना पट्टी",
+    "liveOn": false,
+    "liveUrl": "",
+    "liveTitle": "आरती का सीधा प्रसारण"
+  },
+  "updatedAt": 1791144123530
+}
